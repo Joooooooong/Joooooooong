@@ -38,9 +38,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [웹디자인 포트폴리오 보기](#) | Figma 디자인 시안 & 퍼블리싱 구현 비교 | Photoshop, HTML/CSS |
-| [반응형 웹 클론 프로젝트](#) | 데스크톱/모바일 반응형 구현 | HTML/CSS, JavaScript |
-| [기획 중심 UI 설계 예시](#) | 사용 흐름 기반 시안 설계 및 제작 | Figma, 사용자 인터뷰 |
+| [웹디자인 및 퍼블리싱 포트폴리오](https://github.com/yeominhye/acornProject) | Figma 디자인 시안 & 퍼블리싱 구현 비교 | Photoshop, HTML/CSS |
 
 ---
 
